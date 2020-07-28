@@ -124,4 +124,8 @@ game_data => {
  }
  }
  
- 
+def game_hash do
+  return {}
+end
+
+game_hash
