@@ -59,13 +59,13 @@ def game_hash
           blocks: 11, 
           slam_dunks: 1
         }
-      ]
-    },
-    away: {
-      team_name: "",
-      colors: [],
-      players: [
-        {
+    ]
+  },
+  :away => {
+    :team_name => "Charlotte Hornets",
+    :colors => ["Turquoise","Purple"],
+    :players =>[
+      {
           player_name: "Jeff Adrien", 
           number: 4, 
           shoe: 18, 
